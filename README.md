@@ -126,13 +126,11 @@ Based on the insights uncovered:
 
 **MySQL** – Data cleaning, transformation, and exploratory analysis
 
-**Power BI** – Data modeling, DAX measures, dashboards
+**Power BI** – DAX measures, dashboards
 
 **Power Query** – M language transformations
 
 **Excel** – Preprocessing and format corrections
-
-**AI Assistance (ChatGPT, Gemini)** – Debugging, question refinement, insight polishing
 
 # 🏁 Conclusion
 
